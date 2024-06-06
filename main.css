@@ -1,0 +1,20 @@
+body {
+    background-color: #DCD7D5;
+}
+
+.carousel-item img {
+    width: 40%; 
+    max-height: 50%; 
+    margin: 0 auto; 
+    padding-bottom: 30px;
+}
+
+.container-sobre {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
